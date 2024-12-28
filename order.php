@@ -33,6 +33,7 @@
 	</tr>
    </table>
 
+   <br> <a href ="index.php"> strona glowna </a>
 END;
 
 ?>
